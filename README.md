@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-@shubham_poddar-FF721B?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.codechef.com/users/shubhamkumar08">
-<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"width="200"/>
+<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"height="200"/>
       
   </a>
 </div>
