@@ -16,10 +16,14 @@
      <img src="https://img.shields.io/badge/-Shubhamshreyash360@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shubham-kumar-084925215/" target="_blank">
-     <img src="https://img.shields.io/badge/Shubham-kubmar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Shubham-kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="https://twitter.com/Mr_helpless_" target="_blank">
     <img src="https://img.shields.io/badge/-@shubham_poddar-FF721B?logo=twitter&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/shubhamkumar08">
+<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"/>
+      
   </a>
 </div>
 
