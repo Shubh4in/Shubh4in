@@ -13,7 +13,7 @@
 
 <div align="center"> 
   <a href="mailto:Shubhamshreyash360@gmail.com">
-     <img src="https://img.shields.io/badge/-Shubhamshreyash360@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
+     <img src="https://img.shields.io/badge/-ShubhamKmr.dev@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shubham-kumar-084925215/" target="_blank">
      <img src="https://img.shields.io/badge/Shubham-kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
